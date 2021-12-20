@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Dec 2021 10:02:24 at http://darkmoddervc.github.io/PS4JB +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%P%s%u%I0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://darkmoddervc.github.io/PS4JB -O1 "C:\Users\LovaJohary\Desktop\HTTrack\jailbreak" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:03:14	Error: 	"Not Found" (404) at link https://darkmoddervc.github.io/PS4JB/75XV2/jb.js (from https://darkmoddervc.github.io/PS4JB/75XV2/index.html)
+10:03:14	Error: 	"Not Found" (404) at link https://darkmoddervc.github.io/PS4JB/75XV2/GET (from https://darkmoddervc.github.io/PS4JB/75XV2/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 48 links scanned, 45 files written (13267366 bytes overall) [2157039 bytes received at 35361 bytes/sec], 12616855 bytes transferred using HTTP compression in 45 files, ratio 11%, 8.3 requests per connection
+(2 errors, 0 warnings, 0 messages)
